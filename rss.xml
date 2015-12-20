@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lars Lentz Photography]]></title>
         <description><![CDATA[Lars Lentz Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lars-lentz-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 04:46:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 04:56:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lars-lentz-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/24633cbb-3c2b-4430-a319-25643aa9f8cb.jpg">]]></description>
+            <link>https://thegrid.ai/lars-lentz-photography/7459ee21-daa2-498d-92a4-e242a0487673/index.html</link>
+            <guid isPermaLink="false">7459ee21-daa2-498d-92a4-e242a0487673</guid>
+            <pubDate>Sun, 20 Dec 2015 04:56:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello</p>]]></description>
-            <link>undefinede914dafc-d311-4d5f-b65c-da711a6e2c40/index.html</link>
+            <link>https://thegrid.ai/lars-lentz-photography/e914dafc-d311-4d5f-b65c-da711a6e2c40/index.html</link>
             <guid isPermaLink="false">e914dafc-d311-4d5f-b65c-da711a6e2c40</guid>
             <pubDate>Sun, 20 Dec 2015 04:46:01 GMT</pubDate>
         </item>
