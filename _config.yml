@@ -1,0 +1,28 @@
+name: Lars Lentz Photography
+favicon: null
+layout_spectrum: 0.03288541198708117
+typography_spectrum: 0.07345721148885787
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.26720128464512527
+  lightness: 0.5049605604726821
+  saturation: 0.19226057757623494
+  rhythmicContrast: 0.042514549335464835
+purpose: []
