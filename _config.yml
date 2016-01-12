@@ -1,7 +1,7 @@
 name: Lars Lentz Photography
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.22398
+layout_spectrum: 0.49548
+typography_spectrum: 0.49611
 title: Lars Lentz Photography
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#a4404d'
     - '#cd7a70'
     - '#ccaeb7'
-  brandStrength: 0.26720128464512527
+  brandStrength: 0.125
   lightness: 0.5
   saturation: 0
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
